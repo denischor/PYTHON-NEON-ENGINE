@@ -1,0 +1,14 @@
+# Virtual Environment
+.venv/
+venv/
+neon_env/
+*/__pycache__/
+*.pyc
+
+# Output Images (Optional - if you don't want to track generated images)
+output_images/
+
+# IDE/Editor specific files (Examples - add yours if needed)
+.vscode/
+.idea/
+*.swp

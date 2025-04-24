@@ -1,0 +1,1 @@
+text_to_image('Hello Neon', 'arial.ttf', 'output_text.png')
